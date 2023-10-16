@@ -22,7 +22,7 @@ Open in browser
 
 Known bugs-
 
-No known bugs
+When first hitting go live, it will give the option of first project instead of just going to it. Click on first project and it will work as intended.
 
 License
 
