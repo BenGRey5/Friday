@@ -22,7 +22,7 @@ Open in browser
 
 Known bugs-
 
-When first hitting go live, it will give the option of first project instead of just going to it. Click on first project and it will work as intended.
+All though I made the necessary corrections suggested by my teacher I still can't use GitHub pages to go live with the website for some reason.
 
 License
 
